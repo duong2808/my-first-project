@@ -1,0 +1,7 @@
+ Echo Chuong trinh da xoa file RE.TXT va file R.TXT tren man hinh nen.
+                        Echo.                   
+                        Del RE.TXT
+                        Del R.TXT
+                        Echo.
+                        Echo DA XOA THANH CONG...! NHAN PHIM BAT KY DE THOAT...!        
+                        pause
